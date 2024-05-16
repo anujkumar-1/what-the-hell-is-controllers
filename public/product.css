@@ -1,0 +1,19 @@
+main {
+    margin: 1rem;
+
+}
+main input{
+    width: 20%;
+    height: 1.2rem;
+    border-radius: 3px;
+}
+
+button{
+    background-color: #e61d1d;
+    padding: .26rem;
+    color: #ffffff;
+    border-radius: 2px;
+}
+button:hover, button:active{
+    background-color: #e3e61d;
+}

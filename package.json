@@ -1,0 +1,19 @@
+{
+  "name": "what-the-hell-are-controllers",
+  "version": "1.0.0",
+  "description": "What the hell is Controllers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Anuj Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "": "^3.1.0"
+  },
+  "dependencies": {
+    "bnodemonody-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}

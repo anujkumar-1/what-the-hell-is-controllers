@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    background-color:#e61d1d;
+    font-family: sans-serif;   
+    padding: 1.5rem;     
+}
+
+.header__ul_list{
+    display: flex;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.header__li{
+    margin-left: 1rem;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header__li a {
+    text-decoration: none;
+    color: #e3e61d;
+}
+
+.header__li a:hover{
+    color: black
+}
